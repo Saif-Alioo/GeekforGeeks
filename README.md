@@ -7,3 +7,4 @@ arr[] = {0,0,5,5,0,0}
 Output: 6
 Explanation: The 6 subarrays are 
 [0], [0], [0], [0], [0,0], and [0,0].</h4>
+<h5>Link of problem: https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1 </h5>

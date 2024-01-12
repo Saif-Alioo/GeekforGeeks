@@ -33,6 +33,7 @@ After reversing the given
 input from the 3rd position the resultant
 output will be 3 2 1 4 5.
 </h3>
+<h5>Link of problem: [https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/0](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) </h5>
 <h1>---------------------------------------------------------------</h1>
 <h1>Zero Sum Subarray</h1>
 <h3>You are given an array arr[] of size n. Find the total count of sub-arrays having their sum equal to 0.</h3>

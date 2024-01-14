@@ -49,6 +49,20 @@ The resultant linked list is sorted.
 </h3>
 <h5>Link of problem: https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1 </h5>
 <h1>---------------------------------------------------------------</h1>
+<h1>4:Find duplicate rows in a binary matrix</h1>
+<h3>Given a boolean matrix of size RxC where each cell contains either 0 or 1, find the row numbers (0-based) of row which already exists or are repeated.</h3>
+<h3>Example:
+nput:
+R = 2, C = 2
+matrix[][] = {{1, 0},
+            {1, 0}}
+Output: 
+1
+Explanation:
+Row 1 is duplicate of Row 0.
+</h3>
+<h5>Link of problem: https:https://www.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1 </h5>
+<h1>---------------------------------------------------------------</h1>
 <h1>Zero Sum Subarray</h1>
 <h3>You are given an array arr[] of size n. Find the total count of sub-arrays having their sum equal to 0.</h3>
 <h3>Example:</h3>

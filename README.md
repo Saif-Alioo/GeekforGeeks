@@ -63,6 +63,22 @@ Row 1 is duplicate of Row 0.
 </h3>
 <h5>Link of problem: https:https://www.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1 </h5>
 <h1>---------------------------------------------------------------</h1>
+<h1>5:Leaders in an array</h1>
+<h3>Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is a leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. </h3>
+<h3>Example:
+Input
+n = 6
+A[] = {16,17,4,3,5,2}
+Output: 17 5 2
+Explanation: The first leader is 17 
+as it is greater than all the elements
+to its right.  Similarly, the next 
+leader is 5. The right most element 
+is always a leader so it is also 
+included.
+</h3>
+<h5>Link of problem: https:https:https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&sortBy=submissions </h5>
+<h1>---------------------------------------------------------------</h1>
 <h1>Zero Sum Subarray</h1>
 <h3>You are given an array arr[] of size n. Find the total count of sub-arrays having their sum equal to 0.</h3>
 <h3>Example:</h3>

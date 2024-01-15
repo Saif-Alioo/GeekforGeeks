@@ -69,7 +69,7 @@ Row 1 is duplicate of Row 0.
 Input
 n = 6
 A[] = {16,17,4,3,5,2}
-Output: 17 5 2
+Output: 17 5 2<a/>
 Explanation: The first leader is 17 
 as it is greater than all the elements
 to its right.  Similarly, the next 
